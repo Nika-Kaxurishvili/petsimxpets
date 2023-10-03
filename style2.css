@@ -601,3 +601,35 @@ button:active {
         margin-top: 100px;
     }
 }
+@media (max-width:460px) {
+    .psx{
+        margin-left: 60px;
+    }
+    .card{
+        margin-left: 80px;
+    }
+    .card1{
+        margin-left: 80px;
+        margin-top: 100px;
+    }
+    .card2{
+        margin-left: 80px;
+        margin-top: 100px;
+    }
+    .card3{
+        margin-left: 80px;
+        margin-top: 100px;
+    }
+    .card4{
+        margin-left: 80px;
+        margin-top: 100px;
+    }
+    .card5{
+        margin-left: 80px;
+        margin-top: 100px;
+    }
+    .card6{
+        margin-left: 80px;
+        margin-top: 100px;
+    }
+}
