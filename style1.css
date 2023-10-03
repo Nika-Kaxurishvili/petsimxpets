@@ -235,4 +235,11 @@ button:active {
     font-size: 25px;
     color: white;
     margin-top: -0px;
+}@media (max-width:400px) {
+  .psx{
+      margin-left: 60px;
+  }
+  .h4{
+    margin-top: 100px;
+  }
 }
